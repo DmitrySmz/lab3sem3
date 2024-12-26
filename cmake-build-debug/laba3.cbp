@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="laba3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="laba3">
+				<Option output="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/laba3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 laba3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="laba3/fast">
+				<Option output="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/laba3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 laba3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/DataStructures/Histogram.h">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/interface.cpp">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/interface.h">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/main.cpp">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/test.cpp">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/test.h">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/test_btree.cpp">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/test_btree.h">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/test_hashtable.h">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/test_histogram.h">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/test_sparse_matrix.h">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/test_sparse_vector.h">
+			<Option target="laba3"/>
+		</Unit>
+		<Unit filename="/Users/dmitrijsmaznov/Downloads/Hash-table-and-BalancedTree-main/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
